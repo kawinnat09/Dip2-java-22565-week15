@@ -40,7 +40,6 @@ public class Main {
         Fruit.Message objApp4 = new Apple();
 
         objApp4.msg();
-        objApp.msg();
         objApp3.name();
         objApp2.province();
         objApp.favorite();
